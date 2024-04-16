@@ -1,8 +1,9 @@
 # Changelog
 
-## Unreleased
+## 5.8.0
 
-* chore: restrict `analyzer` version to `>=5.1.0 <5.14.0`.
+* chore: bump dart sdk version to `3.3.3` minimum.
+* chore: bump all dependencies to their latest versions.
 
 ## 5.7.4
 
